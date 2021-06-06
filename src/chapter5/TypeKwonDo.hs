@@ -1,6 +1,5 @@
--- Type-Kwon-Do
 module TypeKwonDo where
-
+-- Type-Kwon-Do
 {- The name is courtesy Phillip Wright3, thank you for the idea!
 The focus here is on manipulating terms in order to get the types
 to fit. This sort of exercise is something you’ll encounter in writing

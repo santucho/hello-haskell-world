@@ -11,7 +11,7 @@
 -- where x = "Singin"
 -- x = "Somewhere"
 
-module Sign where
+module Sing where
 
 fstString :: [Char] -> [Char]
 fstString x = x ++ " in the rain"

@@ -3,3 +3,6 @@
 *.exe
 .vscode/
 ChangeLog.md
+.idea/
+*.iml
+*.cabal
