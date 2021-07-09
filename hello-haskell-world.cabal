@@ -25,13 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Arith3Broken
-      BasicDataTypes
       MyExampleLib
-      Sign
-      TypeInference
-      TypeKwonDo
-      Types
   other-modules:
       Paths_hello_haskell_world
   hs-source-dirs:
